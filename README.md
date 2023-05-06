@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![alt text](https://www.ionos.es/digitalguide/fileadmin/DigitalGuide/Teaser/ascii-code-t.jpg)
