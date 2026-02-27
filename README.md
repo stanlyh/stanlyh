@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 👨‍💻
 
 <!--
 **stanlyh/stanlyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-
-![alt text](https://www.ionos.es/digitalguide/fileadmin/DigitalGuide/Teaser/ascii-code-t.jpg)
+![alt text](https://www.ionos.es/digitalguide/fileadmin/DigitalGuide/Teaser/ascii-code-t.jpg)-->
+![alt text](https://outsourcedaccountants.us/storage/2024/12/Best-Accounting-Industry-Trends-Blog-Banner-Image-One.webp)
