@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![alt text](https://www.ionos.es/digitalguide/fileadmin/DigitalGuide/Teaser/ascii-code-t.jpg)-->
-![alt text](https://outsourcedaccountants.us/storage/2024/12/Best-Accounting-Industry-Trends-Blog-Banner-Image-One.webp)
+![alt text](https://www.ionos.es/digitalguide/fileadmin/DigitalGuide/Teaser/ascii-code-t.jpg)-
+![alt text](https://outsourcedaccountants.us/storage/2024/12/Best-Accounting-Industry-Trends-Blog-Banner-Image-One.webp)-->
+![alt text](https://www.ionos.es/digitalguide/fileadmin/DigitalGuide/Teaser/ascii-code-t.jpg)
